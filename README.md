@@ -21,3 +21,6 @@ from MakeSingular import PluralToSingular
 ```
 PluralToSingular.convert('apples')
 ```
+```
+apple
+```
