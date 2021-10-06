@@ -7,7 +7,7 @@ Convert Plural To Singular
 1. Install:
 
 ```
-pip install MakeSingular
+pip3 install MakeSingular
 ```
 
 2. Convert Plural word to Singular
